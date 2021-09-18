@@ -245,10 +245,10 @@
 }
 
 .input-time:first-child {
-  padding-right: 4px;
+  padding-right: 8px;
 }
 .input-time:last-child {
-  padding-left: 4px;
+  padding-left: 8px;
 }
 .range {
   flex-grow: 1;
